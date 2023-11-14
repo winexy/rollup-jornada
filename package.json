@@ -1,0 +1,24 @@
+{
+  "name": "rollup-jornada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plugin.js",
+  "type": "module",
+  "scripts": {
+    "start": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winexy/rollup-jornada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winexy/rollup-jornada/issues"
+  },
+  "homepage": "https://github.com/winexy/rollup-jornada#readme",
+  "dependencies": {
+    "rollup": "^4.4.1"
+  }
+}
